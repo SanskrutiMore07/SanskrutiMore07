@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanskruti</h1>
+<div align="center">
+  <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQ4MXNwaHdsd3VmaWtvMnV3ZTc4ODJucTBzemZ6MjhkNHljeXBtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT39CV47COkGPZO3HG/giphy.gif width="200">
+
+</div>
 <h3 align="center">Hustling today for the future I see..!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanskrutimore07&label=Profile%20views&color=0e75b6&style=flat" alt="sanskrutimore07" /> </p>
